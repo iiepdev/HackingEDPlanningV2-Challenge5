@@ -10,3 +10,10 @@ Note: By accessing this repository and the corresponding files, you agree to a n
 🎯 This challenge consists of designing a Moodle plugin (or suitable external tool) that enables users to extract data and insights from discussion forums in a structured manner, identify and visualize key terms and concepts and possibly generate summaries in different formats.
 
 ⛑ Experts joining this challenge should have skills in either Natural Language Processing, Datavisualization, Web Development, Data Engineering or Learning Management Systems, in particular Moodle. Participants should be aware that the discussion forums data will be in that language.
+
+
+# How to use this GitHub repository ? 
+
+If you have never used github repository you can download the content of this repository by clicking on the button **Code** and then **download zip**. If you want you can start to use github by forking this project as a base for your project and share your work on Github. 
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
