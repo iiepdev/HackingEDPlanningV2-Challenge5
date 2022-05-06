@@ -7,7 +7,7 @@ alt="Introductory video" width="720" height="360" border="10" /></a>
 
 🇪🇸 [Versión en Español](#versi%C3%B3n-en-espa%C3%B1ol)
 
-Note: By accessing this repository and the corresponding files, you agree to a [non-disclosure agreement](https://box.iiep.unesco.org/s/FCXnZCStwRcyge4). 
+Note: By accessing this repository and the corresponding files, you agree to a [non-disclosure agreement](https://box.iiep.unesco.org/s/FCXnZCStwRcyge4). You can also access the [Challenge brief](https://box.iiep.unesco.org/s/6t3NzjMs9pNdrnz).
 
 🧐 The IIEP-UNESCO Moodle platform hosts global capacity development and training activities on educational planning, where as part of the proposed coursework, discussion forums are often used to allow participants to share insights on policy and legislation, and experiences and good practices related to their national contexts. This information is extremely helpful for their learning but also for IIEP, as it also contributes to the Institute’s research and technical cooperation work.
 
@@ -92,7 +92,7 @@ If you have never used github repository you can download the content of this re
 
 # Version française
 
-Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un [accord de non-divulgation des données confidentielles](https://box.iiep.unesco.org/s/cLG4mAXLWeJyFWT). 
+Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un [accord de non-divulgation des données confidentielles](https://box.iiep.unesco.org/s/cLG4mAXLWeJyFWT). Vous pouvez également accéder au [Résumé du défi](https://box.iiep.unesco.org/s/6t3NzjMs9pNdrnz).
 
 🧐 La plateforme Moodle de l'IIPE-UNESCO accueille des activités de formation et de renforcement des capacités mondiales autour de la planification de l'éducation. Dans le cadre des cours proposés, des forums de discussion sont  utilisés pour permettre aux participants de partager leurs idées sur la politique et la législation, ainsi que leurs expériences et bonnes pratiques liées à leurs contextes nationaux. Ces informations sont extrêmement utiles pour leur apprentissage mais aussi pour l'IIPE, car elles alimentent également le travail de recherche et de coopération technique de l'Institut.
 
@@ -175,7 +175,7 @@ Si vous n'avez jamais utilisé le dépôt GitHub, vous pouvez télécharger le c
 
 # Versión en Español
 
-Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un [acuerdo de no divulgación](https://box.iiep.unesco.org/s/5NdS4nR2dinDbRY).
+Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un [acuerdo de no divulgación](https://box.iiep.unesco.org/s/5NdS4nR2dinDbRY). También puede acceder al [Informe del Desafío](https://box.iiep.unesco.org/s/6t3NzjMs9pNdrnz).
 
 🧐 La plataforma Moodle del IIPE-UNESCO alberga programas de formación en materia de planificación de la educación. En los foros de debate de esta plataforma, los participantes de los programas pueden compartir sus conocimientos sobre políticas y legislación. Esta información es muy útil para su proceso aprendizaje, pero también para el IIPE, ya que contribuye a la labor de investigación y cooperación técnica del Instituto. Sin embargo, en general no se aprovecha debido a la ausencia de una solución que permita extraerla y analizarla fácilmente.
 
